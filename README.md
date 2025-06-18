@@ -91,4 +91,3 @@ This project is open-source and available under the MIT License. Feel free to us
 
 **Dhrumil Trivedi**  
 Java Developer | Cybersecurity Enthusiast  
-LinkedIn/GitHub: *Add your links here*
