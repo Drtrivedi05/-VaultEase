@@ -66,11 +66,6 @@ java MainMenu
 
 ---
 
-## 🧪 Sample Output Screenshot
-
-![VaultEase Main Menu](VaultEase_MainMenu.png)
-
----
 
 ## 📂 Data Storage
 
